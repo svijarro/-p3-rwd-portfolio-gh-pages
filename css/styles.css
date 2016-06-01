@@ -16,6 +16,19 @@ YOUR STYLES
 .lg-image {
  border-radius: 15px;
  box-shadow: 0 0 20px teal;
+    
+}
+
+svg {
+  width: 200px;
+  height: 200px;
+  margin-top: 5em;
+  margin-left: 500px;
+
+}
+
+path {
+  fill: white;
 }
 
 

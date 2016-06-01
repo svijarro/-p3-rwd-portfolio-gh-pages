@@ -4,9 +4,23 @@ body {
 	background: -webkit-linear-gradient(90deg, #43cea2 10%, #185a9d 90%);
 }
 
+svg {
+  width: 200px;
+  height: 200px;
+  margin-top: 5em;
+  margin-left: 500px;
+  position: static;
+}
+
+path {
+  fill: white;
+}
+
 .masthead {
 	font-family: 'Shadows Into Light', cursive;
     font-size: 2em;
+    text-align: center;
+    margin-top: -1em;
 }
 
 .site-title {
@@ -14,12 +28,12 @@ body {
 }
 
 .card {
-	background: white;
+	background: rgba(241, 234, 234, 0.42);
 	margin-bottom: 1em;	
 }
 
 .card a {
-	color: dimgrey;
+	color: white;
 	text-decoration: none;
 }
 
