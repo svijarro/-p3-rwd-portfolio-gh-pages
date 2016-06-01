@@ -1,0 +1,39 @@
+/********************
+IMPORTS
+*******************/
+@import url('reset.css');
+@import url('accessibility.css');
+@import url('card-styles.css');
+
+/********************
+YOUR STYLES 
+*******************/
+
+.lg-backdrop {
+ background-color: rgba(8, 175, 174, 0.79);
+}
+
+.lg-image {
+ border-radius: 15px;
+ box-shadow: 0 0 20px teal;
+}
+
+
+/********************
+MEDIA QUERIES
+*******************/
+
+/* Desktop */
+@media (min-width: 75em) {
+
+}
+
+/* Tablet */
+@media (min-width: 48em) {
+
+}
+
+/* Mobile */
+@media (min-width: 30em) {
+
+}
