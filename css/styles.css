@@ -19,18 +19,6 @@ YOUR STYLES
     
 }
 
-svg {
-  width: 200px;
-  height: 200px;
-  margin-top: 5em;
-  margin-left: 500px;
-
-}
-
-path {
-  fill: white;
-}
-
 
 /********************
 MEDIA QUERIES
